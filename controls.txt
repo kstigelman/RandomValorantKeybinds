@@ -1,0 +1,36 @@
+Forward
+Backward
+Strafe Left
+Strafe Right
+Walk
+Jump
+Crouch
+Toggle Crouch
+Fire
+Alternate Fire
+Reload
+Equip Primary Weapon
+Equip Secondary Weapon
+Equip Melee Weapon
+Equip Spike
+Drop Equipped Weapon
+Inspect Weapon
+Use Object
+Use Spike
+Use/Equip Ability: 1
+Use/Equip Ability: 2
+Use/Equip Ability: 3
+Use/Equip Ability: Ultimate
+Use Spray
+Party Voice Push To Talk Key
+Team Voice Push to Talk Key
+Pin (Tag) / Ping Wheel (Hold)
+Radio Commands Menu Index
+Radio Command Wheel Index
+Show Teammate Loadouts
+Combat Report
+Agent Ability Tooltip
+Open Armor
+Open Map (Toggled)
+Open Map (Hold)
+Toggle Cursor
